@@ -1,28 +1,24 @@
-# IT2234_Practicals
-Web Services and Server Technologies - Practical Sessions
+# IT2223_Practicals
 
-(01)Print "Hello"
+Design and Analysis for Algorithms - Practicals
 
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+## 01) Time complexity 1
 
-
-(02)Arithmetic Operations
-
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+![SS1](https://github.com/user-attachments/assets/77332242-c61f-45c7-88e7-b1abd83df261)
 
 
-(03)Loops
+## 02) Time complexity 2
 
-(1)Print numbers from 1 to 10
-
-(2)Print only odd numbers
-
-(3)Print numbers in reverse
-
-(4)Reverse numbers in left and right
-
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
+![SS2](https://github.com/user-attachments/assets/d6c83259-20f4-4784-bbc2-96d9cd1655e4)
 
 
 
+## 03) Linear Search
 
+![SS3](https://github.com/user-attachments/assets/599bf3bd-0808-4e1a-a9e6-ab853d6d7aa3)
+
+
+
+## 04) Linear Search Time
+
+![SS4](https://github.com/user-attachments/assets/e8bb5956-c702-4c1b-981f-6738bacc1373)
