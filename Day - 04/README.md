@@ -1,28 +1,45 @@
-# IT2234_Practicals
-Web Services and Server Technologies - Practical Sessions
+# IT2223_Practicals
 
-(01)Print "Hello"
-
-<img width="500" alt="Intro" src="https://github.com/user-attachments/assets/c2907484-adc1-42c4-82e1-8547d2abfb9e" />
+Design and Analysis for Algorithms - Practicals
 
 
-(02)Arithmetic Operations
+## 1) Grade Calculation and GPA Computation
 
-<img width="499" alt="Operators" src="https://github.com/user-attachments/assets/d433e18c-c3c6-4020-b14a-06baa418b55f" />
+- Takes user input for marks, assigns grades, and computes GPA.
+
+![SS1](https://github.com/user-attachments/assets/4df92436-fa9d-4c5d-b0ba-45c9122c9bfb)
 
 
-(03)Loops
 
-(1)Print numbers from 1 to 10
+## 2) Day Name Retrieval Using if-else
 
-(2)Print only odd numbers
+- Allows users to input a day number and retrieves the corresponding day name using an if-else structure.
 
-(3)Print numbers in reverse
+![SS2](https://github.com/user-attachments/assets/81d77111-cbba-4321-a6f8-eb1e2584b333)
 
-(4)Reverse numbers in left and right
 
-<img width="480" alt="Loop" src="https://github.com/user-attachments/assets/a0a7638d-2e87-499a-8e81-e22f8edef51c" />
 
+## 3) Day Name Retrieval Using switch-case
+
+- Retrieves the day name based on the input number using a switch-case statement.
+
+![SS3](https://github.com/user-attachments/assets/8715fc8e-2c0b-49a9-835e-efb4994e6d2f)
+
+
+
+## 4) Calculator Implementation
+
+- Provides a simple calculator that performs basic arithmetic operations.
+
+![SS4](https://github.com/user-attachments/assets/5e12885e-eced-43d8-afa0-5378e2243431)
+
+
+
+## 5) 5. Line Plot Generation
+
+- Creates a line plot based on user-defined values or mathematical expressions.
+
+![SS5](https://github.com/user-attachments/assets/75d47062-dd6b-4439-a38d-660f0293e92e)
 
 
 
