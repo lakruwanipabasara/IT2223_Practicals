@@ -11,7 +11,7 @@ Design and Analysis for Algorithms - Practicals
 ![SS4](https://github.com/user-attachments/assets/01690d3d-8ddc-4383-9abf-ab04228fea03)
 
 
-# Directed Graph
+## Directed Graph
 
 ![SS5](https://github.com/user-attachments/assets/3a8d39fb-774a-45a1-aa61-25197183f3d1)
 
