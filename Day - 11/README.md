@@ -89,7 +89,8 @@ Design and Analysis for Algorithms - Practicals
 
 - s and t define edges {1→2, 1→3, 2→4, 3→4, 4→5}.
 - G = graph(s,t); constructs the graph.
-- The for loop:
+
+  #### The for loop:
 - Uses numnodes(G) to determine the total node count.
 - Calls neighbors(G, node); to get adjacent nodes.
 - Displays the connections using fprintf.
