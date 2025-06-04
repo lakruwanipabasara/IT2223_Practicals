@@ -3,6 +3,25 @@
 
 Design and Analysis for Algorithms - Practicals
 
+## Undirected Graph
+
+![SS3](https://github.com/user-attachments/assets/6f5b70c8-fa8d-4db5-8eec-d110802abcdc)
+
+
+![SS4](https://github.com/user-attachments/assets/01690d3d-8ddc-4383-9abf-ab04228fea03)
+
+
+# Directed Graph
+
+![SS5](https://github.com/user-attachments/assets/3a8d39fb-774a-45a1-aa61-25197183f3d1)
+
+
+## Undirected Weighted Graph
+
+![SS6](https://github.com/user-attachments/assets/403ea769-83d5-437f-b95e-5c15113d5ac8)
+
+
+
 ## Adjacency Matrix
 
 - Defines an adjacency matrix A.
