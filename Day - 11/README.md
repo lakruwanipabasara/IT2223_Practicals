@@ -77,5 +77,6 @@ Design and Analysis for Algorithms - Practicals
 
 ## Exercise
 
+![SS12](https://github.com/user-attachments/assets/fde7d2e7-4fdc-444b-8600-376f6f52cbfd)
 
 
