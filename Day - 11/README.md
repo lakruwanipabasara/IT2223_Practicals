@@ -59,6 +59,13 @@ Design and Analysis for Algorithms - Practicals
 
 ## Graph 3
 
+- Edge connections: {1→2, 1→3, 2→4, 3→4, 4→5}
+  
+- Graph creation using G = graph(s,t); .
+  
+- Node colors: Defined using RGB values (nodeColors), assigning red, green, blue, yellow, and magenta to nodes 1-5.
+  
+- Plotting: plot(G, 'NodeColor', nodeColors, 'LineWidth', 1.5); visualizes the graph, applying line thickness and color settings.
 
 
 ![SS5](https://github.com/user-attachments/assets/4e52d7c3-08bc-41bd-9634-1fc699a31132)
@@ -79,6 +86,14 @@ Design and Analysis for Algorithms - Practicals
 ## Graph 5
 
 ### Get adjacency nodes of a node
+
+- s and t define edges {1→2, 1→3, 2→4, 3→4, 4→5}.
+- G = graph(s,t); constructs the graph.
+- The for loop:
+- Uses numnodes(G) to determine the total node count.
+- Calls neighbors(G, node); to get adjacent nodes.
+- Displays the connections using fprintf.
+
 
 ![SS7](https://github.com/user-attachments/assets/8c874a57-9693-4db2-aba1-77528ba7a3c2)
 
