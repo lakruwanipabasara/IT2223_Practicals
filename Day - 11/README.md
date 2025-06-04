@@ -3,7 +3,7 @@
 
 Design and Analysis for Algorithms - Practicals
 
-## Adjacency matrix
+## Adjacency Matrix
 
 - Defines an adjacency matrix A.
   
@@ -17,7 +17,8 @@ Design and Analysis for Algorithms - Practicals
 
 ## Graph 1
 
- ### weighted directed graph
+ ### Add color to nodes (weighted directed graph)
+ 
  
 - Defines the source (s) and target (t) nodes for each edge.
   
@@ -44,9 +45,37 @@ Design and Analysis for Algorithms - Practicals
 - digraph(s,t,weights) constructs the directed graph.
 
 - arranges the nodes in a nice way using layout called 'force'
-  
+
+  ### without 'force'
 
 ![SS3](https://github.com/user-attachments/assets/f40ad4e3-0fc3-447f-9345-ddb0570ea550)
+
+
+ ### with 'force'
+
+ ![SS4](https://github.com/user-attachments/assets/7186bd4b-1132-40f6-9ef1-8c5adde8fcb4)
+
+
+
+## Graph 3
+
+![SS5](https://github.com/user-attachments/assets/4e52d7c3-08bc-41bd-9634-1fc699a31132)
+
+
+
+## Graph 4
+
+![SS6](https://github.com/user-attachments/assets/79760dcb-0a8a-41ed-b5fc-e0e47b97112a)
+
+
+## Graph 5
+
+### Get adjacency nodes of a node
+
+![SS7](https://github.com/user-attachments/assets/8c874a57-9693-4db2-aba1-77528ba7a3c2)
+
+
+## Exercise
 
 
 
