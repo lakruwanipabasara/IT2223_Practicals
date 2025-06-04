@@ -2,13 +2,13 @@
 
 Design and Analysis for Algorithms - Practicals
 
-## 04) Merge Sort
+## Merge Sort
 
 ![SS1](https://github.com/user-attachments/assets/0c8ea1ea-9c3d-4a44-96b4-b7837d9b26c9)
 
 
 
-## 05) Quick Sort
+##  Quick Sort
 
 ![SS2](https://github.com/user-attachments/assets/82fd19bc-a3eb-437c-819d-34f8b47f5756)
 
