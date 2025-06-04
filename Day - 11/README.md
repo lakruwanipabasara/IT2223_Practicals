@@ -59,11 +59,19 @@ Design and Analysis for Algorithms - Practicals
 
 ## Graph 3
 
+
+
 ![SS5](https://github.com/user-attachments/assets/4e52d7c3-08bc-41bd-9634-1fc699a31132)
 
 
 
 ## Graph 4
+
+- s=1; t=2:6; defines a single node (1) that links to multiple target nodes (2-6).
+- G=graph(s,t); creates the graph structure.
+- plot(G, 'Layout', 'force'); uses a force-directed layout, which helps position nodes naturally based on their connections.
+- highlight(h, [1,3], 'NodeColor', 'red'); makes nodes 1 and 3 stand out in red.
+- highlight(h,1,3, 'EdgeColor', 'magenta'); emphasizes the direct connection between 1 and 3 in magenta.
 
 ![SS6](https://github.com/user-attachments/assets/79760dcb-0a8a-41ed-b5fc-e0e47b97112a)
 
@@ -77,6 +85,23 @@ Design and Analysis for Algorithms - Practicals
 
 ## Exercise
 
-![SS12](https://github.com/user-attachments/assets/fde7d2e7-4fdc-444b-8600-376f6f52cbfd)
 
+- s and t define the edges by specifying the source and target nodes.
+  
+- G=graph(s,t); creates the graph.
+  
+- h=plot(G,'LineWidth',2.5); plots it with thick edges.
+  
+- The highlight function is used to customize the node and edge colors.
+  
+- All nodes are set to blue.
+  
+- The edges connected to node 11 are magenta.
+  
+- Specific edges (e.g., {1→2, 1→5, 2→3, etc.}) are set to green.
+  
+- The edges forming what looks like a spanning set are highlighted in red.
+
+
+![SS12](https://github.com/user-attachments/assets/fde7d2e7-4fdc-444b-8600-376f6f52cbfd)
 
