@@ -140,3 +140,47 @@ Design and Analysis for Algorithms - Practicals
 
 ![SS12](https://github.com/user-attachments/assets/fde7d2e7-4fdc-444b-8600-376f6f52cbfd)
 
+## 2025.06.16
+
+## Exercise --> Exercise.m
+
+#### Original Graph
+
+![SS01](https://github.com/user-attachments/assets/5669b551-0cbc-4fd2-9ed6-4cf1766ecb1c)
+
+
+#### Sub Graph
+
+![SS02](https://github.com/user-attachments/assets/9621ff56-c86d-401f-8a48-c0d2d78ac15c)
+
+#### Graph with Node and Edge Labels
+
+![SS03](https://github.com/user-attachments/assets/1c39987e-c17e-449d-859a-40015f2cc471)
+
+
+#### Graph coloring with Shortest path from 1 to 5
+
+![SS04](https://github.com/user-attachments/assets/e89e5bed-8270-4de2-97e0-572ed4fe6171)
+
+## Tree
+
+#### Unweighted tree
+
+![unweightedTree](https://github.com/user-attachments/assets/39ca1990-fb8c-400b-b611-b39ee70e1de2)
+
+
+#### Weighted tree
+
+![weightedTree](https://github.com/user-attachments/assets/dd78ff64-0950-46e0-a73f-9ebd69da8aef)
+
+
+#### BFS
+
+![BFS](https://github.com/user-attachments/assets/c22f5332-9965-4f3c-9947-f50b267341fb)
+
+
+#### DFS
+
+![DFS](https://github.com/user-attachments/assets/1ca99e72-ba68-4c7f-be8a-e0674b01ce9b)
+
+
