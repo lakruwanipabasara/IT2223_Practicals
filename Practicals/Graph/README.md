@@ -184,3 +184,13 @@ Design and Analysis for Algorithms - Practicals
 ![DFS](https://github.com/user-attachments/assets/1ca99e72-ba68-4c7f-be8a-e0674b01ce9b)
 
 
+#### Dijkstra's algorithm
+
+![SS01](https://github.com/user-attachments/assets/ebf61276-f018-4f16-a363-9e270eccf1f8)
+
+
+#### Travelling Salesman Problem
+
+![SS02](https://github.com/user-attachments/assets/88ec0989-92bd-4328-b213-49551da0fcc8)
+
+
